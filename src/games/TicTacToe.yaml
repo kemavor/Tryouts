@@ -1,0 +1,11 @@
+---
+name: TicTacToe
+command: python tictactoe_game.py
+description: "Classic Tic-Tac-Toe game with AI.\nPlay vs human or intelligent computer opponent"
+arguments: []
+tags: ["strategy", "classic", "ai"]
+source_url: ~
+author: ~
+author_url: ~
+shells: []
+

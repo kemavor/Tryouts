@@ -1,0 +1,11 @@
+---
+name: Tetris
+command: python tetris_game.py
+description: "The classic block-stacking puzzle game.\nArrange falling blocks to clear lines"
+arguments: []
+tags: [puzzle, classic]
+source_url: ~
+author: ~
+author_url: ~
+shells: []
+

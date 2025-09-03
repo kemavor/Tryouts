@@ -1,0 +1,11 @@
+---
+name: Pong
+command: python pong_game.py
+description: "The classic arcade tennis game.\nPlay against the computer or a friend"
+arguments: []
+tags: [arcade, classic, multiplayer]
+source_url: ~
+author: ~
+author_url: ~
+shells: []
+

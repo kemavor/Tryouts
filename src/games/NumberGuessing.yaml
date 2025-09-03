@@ -1,0 +1,11 @@
+---
+name: NumberGuessing
+command: python number_guessing_game.py
+description: "Fun number guessing game with hints and statistics.\nSingle and multiplayer modes with difficulty levels"
+arguments: []
+tags: ["puzzle", "multiplayer", "statistics"]
+source_url: ~
+author: ~
+author_url: ~
+shells: []
+

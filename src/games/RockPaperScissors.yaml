@@ -1,0 +1,11 @@
+---
+name: RockPaperScissors
+command: python rock_paper_scissors.py
+description: "Classic Rock Paper Scissors with extended Lizard Spock mode.\nMultiple difficulty levels and tournament mode"
+arguments: []
+tags: ["classic", "tournament", "strategy"]
+source_url: ~
+author: ~
+author_url: ~
+shells: []
+

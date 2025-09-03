@@ -1,0 +1,11 @@
+---
+name: Hangman
+command: python hangman_game.py
+description: "Classic word guessing game with categories and hints.\nClassic and enhanced modes with scoring"
+arguments: []
+tags: ["word", "puzzle", "categories"]
+source_url: ~
+author: ~
+author_url: ~
+shells: []
+

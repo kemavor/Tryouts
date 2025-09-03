@@ -1,0 +1,11 @@
+---
+name: Breakout
+command: python breakout_game.py
+description: "Classic brick-breaking arcade game.\nTurn-based and real-time modes with multiple levels"
+arguments: []
+tags: ["arcade", "action", "classic"]
+source_url: ~
+author: ~
+author_url: ~
+shells: []
+

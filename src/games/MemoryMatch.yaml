@@ -1,0 +1,11 @@
+---
+name: MemoryMatch
+command: python memory_match_game.py
+description: "Memory card matching game with time attack mode.\nMultiple difficulty levels and scoring system"
+arguments: []
+tags: ["memory", "puzzle", "timed"]
+source_url: ~
+author: ~
+author_url: ~
+shells: []
+

@@ -1,0 +1,10 @@
+---
+name: Snake
+command: python snake_game.py
+description: "The classis snake game.\nPlay to your satisfaction"
+arguments: []
+tags: []
+source_url: ~
+author: ~
+author_url: ~
+shells: []
